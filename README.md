@@ -6,7 +6,7 @@
 *2025 International Meeting of the Psychometric Society* <br>
 <sub> *Poster Session, Poster #35* </sub> 
 
-<img align = "right" src = "https://github.com/jjeffries13/classmaps_lpa/blob/main/Images/Nv_CEHS_NEAR_fullname_RGB.png" width="320" height="140">
+<img align = "center" src = "https://github.com/jjeffries13/classmaps_lpa/blob/main/Images/Nv_CEHS_NEAR_fullname_RGB.png" width="340" height="140">
 
 ## Dataset
 ### 2023 NSCH Public Use Data 
