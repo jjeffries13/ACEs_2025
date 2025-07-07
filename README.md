@@ -1,11 +1,7 @@
 # Reconciling Measurement Frameworks for Adverse Childhood Experiences Scales
 
-### <img align="left" width="30" height="30" src="https://github.com/jjeffries13/APA_2023/blob/main/Images/4851855-200.png"> Jay B. Jeffries, Amanda R. Barrett, Melanie C. Willis, James A. Bovaird, Whitney P. Thomas 
+### Jay B. Jeffries, Amanda R. Barrett, Melanie C. Willis, James A. Bovaird, Whitney P. Thomas 
 <h5>University of Nebraska-Lincoln </h5> 
-
-*2025 International Meeting of the Psychometric Society* <br>
-<sub> *Poster Session, Poster #35* </sub> 
-
 <img align = "center" src = "https://github.com/jjeffries13/classmaps_lpa/blob/main/Images/Nv_CEHS_NEAR_fullname_RGB.png" width="340" height="140">
 
 ## Dataset
