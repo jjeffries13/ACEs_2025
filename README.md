@@ -1,4 +1,4 @@
-# Reconciling Measurement Frameworks for Adverse Childhood Experiences Scales
+# Adverse Childhood Experiences: Bridging Reflective and Formative Psychometrics	​
 
 ### Jay B. Jeffries, Amanda R. Barrett, Melanie C. Willis, James A. Bovaird, Whitney P. Thomas 
 <h5>University of Nebraska-Lincoln </h5> 
