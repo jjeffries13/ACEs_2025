@@ -1,8 +1,8 @@
 # Adverse Childhood Experiences: Bridging Reflective and Formative Psychometrics	​
 
-### Jay B. Jeffries, Amanda R. Barrett, Melanie C. Willis, James A. Bovaird, Whitney P. Thomas 
+### Jay B. Jeffries, Amanda R. Barrett, Melanie C. Willis, James A. Bovaird
 <h5>University of Nebraska-Lincoln </h5> 
-<img align = "center" src = "https://github.com/jjeffries13/classmaps_lpa/blob/main/Images/Nv_CEHS_NEAR_fullname_RGB.png" width="340" height="140">
+<img align = "left" src = "https://github.com/jjeffries13/ACEs_2025/Images/Nv_CEHS_NEAR_fullname_RGB.png" width="340" height="140"> <img align = "right" src = "https://github.com/jjeffries13/ACEs_2025/Images/APA2025_Logo.png" width="340" height="140">
 
 ## Dataset
 ### 2023 NSCH Public Use Data 
