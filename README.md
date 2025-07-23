@@ -4,7 +4,6 @@
 <h5>University of Nebraska-Lincoln </h5> 
 <p float = "left"><img src = "https://github.com/jjeffries13/ACEs_2025/blob/main/Images/APA2025_Logo.png" width="340" height="170"> <img src = "https://github.com/jjeffries13/ACEs_2025/blob/main/Images/Nv_NEAR_fullname_RGB.png" width="340" height="120"> </p>
 
-
 ## Dataset
 ### 2023 NSCH Public Use Data 
 * Data available via the U.S. Census Bureau
